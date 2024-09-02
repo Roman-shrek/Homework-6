@@ -11,7 +11,7 @@ public class Main {
         }
         System.out.println();
         // Задание 3
-        for (int b = 0; b < 17; b = b + 2) {
+        for (int b = 0; b <= 17; b = b + 2) {
             System.out.println("Четное чсло " + b);
         }
         System.out.println();
